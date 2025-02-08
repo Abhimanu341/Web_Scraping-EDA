@@ -3,7 +3,7 @@
 
 # 📰 Web Scraping & Text Analysis of News Headlines  
 
-![Project Demo]("HackNews.gif")  
+![Project Demo](HackNews.gif)  
 
 ## 📌 Project Overview  
 This project is an **end-to-end web scraping and text analysis** task that extracts news headlines from **Hacker News**, processes the data, and performs text analysis using **word frequency and word clouds**.  
