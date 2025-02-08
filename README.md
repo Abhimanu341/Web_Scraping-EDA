@@ -17,12 +17,13 @@ This project is an **end-to-end web scraping and text analysis** task that extra
 ---
 
 ## 📂 Table of Contents  
-- [Technologies Used](#technologies-used)  
-- [Installation](#installation)  
-- [Project Workflow](#project-workflow)  
-- [Usage](#usage)  
-- [Results & Visualizations](#results--visualizations)  
-- [Future Improvements](#future-improvements)  
+Technologies Used
+
+Project Workflow
+
+Results & Visualizations
+Future Improvements
+ 
 
 
 ---
