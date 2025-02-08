@@ -48,10 +48,10 @@ This project is an **end-to-end web scraping and text analysis** task that extra
 ## 📊 **Results & Visualizations**  
 
 ### **📌 Top 10 Most Common Words in Headlines**  
-![Bar Chart](bar_chart.png)  
+![Bar Chart]
 
 ### **📌 Word Cloud Representation**  
-![Word Cloud](wordcloud.png)  
+![Word Cloud] 
 
 ---
 
